@@ -1,0 +1,22 @@
+<svg id="Grupo_1199428" data-name="Grupo 1199428" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="129" height="129" viewBox="0 0 129 129">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.442" cy="0.457" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.774" stop-color="#fff"/>
+      <stop offset="1" stop-color="#b4edff"/>
+    </radialGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_466244" data-name="Rectángulo 466244" width="66.452" height="59.493" fill="#5b198d" stroke="#5b198d" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <circle id="Elipse_13938" data-name="Elipse 13938" cx="64.5" cy="64.5" r="64.5" fill="url(#radial-gradient)"/>
+  <g id="Grupo_1190426" data-name="Grupo 1190426" transform="translate(27 27)">
+    <rect id="Rectángulo_459838" data-name="Rectángulo 459838" width="69.773" height="69.773" transform="translate(-0.013 -0.121)" fill="none"/>
+    <g id="Grupo_1201067" data-name="Grupo 1201067" transform="translate(1.987 4.879)">
+      <g id="Grupo_1201066" data-name="Grupo 1201066" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <path id="Trazado_1039271" data-name="Trazado 1039271" d="M58.741,59.493l-50.767-.03A8.055,8.055,0,0,1,.008,51.571L0,17.366c0-1.775,1.771-2.6,3.188-2.559,1.212.039,2.162.014,3.322-.015L6.5,4.217A4.09,4.09,0,0,1,10.389,0H56.046a4.037,4.037,0,0,1,3.868,4.039l.011,18.288,3.493-.014a2.888,2.888,0,0,1,3.033,2.832l-.013,26.238a8.189,8.189,0,0,1-7.7,8.109M57.72,7.012l.05-2.987a1.9,1.9,0,0,0-1.9-1.929H10.558a1.9,1.9,0,0,0-1.9,1.929l.054,2.988Zm.054,2.107L8.655,9.16v1.151l49.119-.04ZM25.909,22.334l31.876-.014-.024-9.966-49.088,0,.008,2.493,10.679.006Zm38.41,28.82v-26a.856.856,0,0,0-.758-.669H24.926l-6.511-7.477-16.3.028,0,34.189a5.992,5.992,0,0,0,5.869,6.085H58.446a6,6,0,0,0,5.873-6.156" transform="translate(0 0)" fill="#5b198d" stroke="#5b198d" stroke-width="1"/>
+        <path id="Trazado_1039272" data-name="Trazado 1039272" d="M39.533,43.757a1.084,1.084,0,1,1-1.58,1.483l-5.724-5.7a9.078,9.078,0,1,1,1.544-1.562ZM33.549,32.426A6.876,6.876,0,1,0,26.673,39.3a6.875,6.875,0,0,0,6.876-6.876" transform="translate(4.473 5.927)" fill="#5b198d" stroke="#5b198d" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
