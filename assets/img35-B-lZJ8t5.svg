@@ -1,0 +1,31 @@
+<svg id="Grupo_1200547" data-name="Grupo 1200547" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="129" height="129" viewBox="0 0 129 129">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.442" cy="0.457" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.774" stop-color="#fff"/>
+      <stop offset="1" stop-color="#b4edff"/>
+    </radialGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_466272" data-name="Rectángulo 466272" width="66.734" height="66.726" fill="#5b198d"/>
+    </clipPath>
+  </defs>
+  <circle id="Elipse_13938" data-name="Elipse 13938" cx="64.5" cy="64.5" r="64.5" fill="url(#radial-gradient)"/>
+  <g id="Grupo_1190426" data-name="Grupo 1190426" transform="translate(27 27)">
+    <rect id="Rectángulo_459838" data-name="Rectángulo 459838" width="69.773" height="69.773" transform="translate(-0.013 0.047)" fill="none"/>
+    <g id="Grupo_1201091" data-name="Grupo 1201091" transform="translate(1.987 1.047)">
+      <g id="Grupo_1201090" data-name="Grupo 1201090" clip-path="url(#clip-path)">
+        <path id="Trazado_1039392" data-name="Trazado 1039392" d="M8.516,2.256,2.234,2.235V60.051l11.061.006.011,2.221-12.288,0A1.082,1.082,0,0,1,0,61.161V1.061A1.031,1.031,0,0,1,1.058,0L43.235,0a1.133,1.133,0,0,1,1.245,1.008l.01,8.986L42.246,10,42.229,6.7l-29.268,0ZM19.528,4.419l-2.153-2.21-5.745.046,2.126,2.209ZM27.243,4.4l-2.1-2.192-4.6.045,2.168,2.214Zm14.994.067V2.231l-13.929.013,2.253,2.234Z" fill="#5b198d"/>
+        <path id="Trazado_1039393" data-name="Trazado 1039393" d="M183.556,106.626a3.306,3.306,0,0,1-3.132,3.408c-1.542.12-3.485-1.053-3.491-2.878l-.054-15.063a3.682,3.682,0,0,1-2.029-2.02,3.5,3.5,0,0,1,.367-3.041,16.686,16.686,0,1,1,9.975,0c1.427,2.086.127,4.019-1.564,5.127Zm11.111-35.52a14.459,14.459,0,1,0-14.459,14.459,14.459,14.459,0,0,0,14.459-14.459M182.514,90.03a1.172,1.172,0,0,0,1.045-1.276,1.251,1.251,0,0,0-1.139-.952l-4.339,0a1.171,1.171,0,0,0-1.2,1.122,1.226,1.226,0,0,0,1.2,1.137Zm-1.167,2.252H179.13v11.09h2.217Zm-.013,14.477.027-1.17-2.273.007.173,1.7c.037.361,1,.6,1.337.477a1.5,1.5,0,0,0,.736-1.015" transform="translate(-130.153 -43.316)" fill="#5b198d"/>
+        <path id="Trazado_1039394" data-name="Trazado 1039394" d="M67.434,101.411a7.075,7.075,0,0,1,.619,2.137l-26.659,6.306a1.178,1.178,0,0,1-1.531-.72L29.349,64.65a1.129,1.129,0,0,1,.671-1.278l32.652-7.719.514,2.168L31.778,65.239l9.978,42.23Z" transform="translate(-23.341 -44.296)" fill="#5b198d"/>
+        <path id="Trazado_1039395" data-name="Trazado 1039395" d="M80.319,102.01l.506,2.175-15.167,3.584a1.168,1.168,0,0,1-1.463-.787l-2.061-8.753A1.144,1.144,0,0,1,62.875,97l18.091-4.277.493,2.166-16.87,3.992,1.509,6.5Z" transform="translate(-49.439 -73.797)" fill="#5b198d"/>
+        <rect id="Rectángulo_466266" data-name="Rectángulo 466266" width="24.535" height="2.312" transform="translate(18.816 50.466) rotate(-13.31)" fill="#5b198d"/>
+        <rect id="Rectángulo_466267" data-name="Rectángulo 466267" width="20.336" height="2.322" transform="translate(17.78 46.118) rotate(-13.245)" fill="#5b198d"/>
+        <rect id="Rectángulo_466268" data-name="Rectángulo 466268" width="20.078" height="2.296" transform="translate(19.849 54.796) rotate(-13.343)" fill="#5b198d"/>
+        <rect id="Rectángulo_466269" data-name="Rectángulo 466269" width="17.949" height="2.305" transform="translate(16.762 41.798) rotate(-13.277)" fill="#5b198d"/>
+        <rect id="Rectángulo_466270" data-name="Rectángulo 466270" width="10.033" height="2.292" transform="translate(22.246 35.926) rotate(-13.24)" fill="#5b198d"/>
+        <rect id="Rectángulo_466271" data-name="Rectángulo 466271" width="2.285" height="2.276" transform="translate(17.905 36.972) rotate(-13.494)" fill="#5b198d"/>
+        <path id="Trazado_1039396" data-name="Trazado 1039396" d="M209.8,88.458a12.236,12.236,0,1,1-12.236-12.236A12.236,12.236,0,0,1,209.8,88.458m-2.227,0a10.009,10.009,0,1,0-10.009,10.009,10.009,10.009,0,0,0,10.009-10.009" transform="translate(-147.507 -60.668)" fill="#5b198d"/>
+      </g>
+    </g>
+  </g>
+</svg>
