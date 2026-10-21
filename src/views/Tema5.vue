@@ -494,6 +494,7 @@
         .cajon.cajon.c01.color-secundario.p-4.mb-3
           p.mb-0 El material educativo es un recurso físico o digital que el instructor-tutor selecciona, adapta o elabora para apoyar el proceso de enseñanza y aprendizaje. Su función no se limita a complementar una actividad, sino que permite organizar la información, facilitar la comprensión, promover la actividad del aprendiz y apoyar el desarrollo de los resultados de aprendizaje.
         p.mb-0(data-aos="fade-down") El material educativo adquiere sentido cuando se relaciona con una estrategia metodológica y con un propósito formativo determinado. Por esta razón, la selección de un recurso no debe depender únicamente de su disponibilidad o de sus características tecnológicas, sino de la manera en que puede contribuir al aprendizaje.
+    p.mb-4 Según el soporte y la forma en que se utilizan, los materiales educativos pueden clasificarse en diferentes tipos:
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
         .tarjeta--container.row

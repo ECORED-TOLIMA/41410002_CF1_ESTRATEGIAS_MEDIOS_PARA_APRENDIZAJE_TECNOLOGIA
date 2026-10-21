@@ -79,21 +79,21 @@
             figure
               img(src="@/assets/curso/temas/t1/img10.svg", alt="alt").img80.m-auto
           h4.text-center Procesos de acreditación
-          p Entendidos como el reconocimiento a la calidad de la educación que una institución brinda, basado en el aseguramiento de estándares básicos y de estándares de excelencia.
+          p.text-center Entendidos como el reconocimiento a la calidad de la educación que una institución brinda, basado en el aseguramiento de estándares básicos y de estándares de excelencia.
       .col-xl-4.col-lg-8.mb-4.mb-xl-5
         .crd01.crd--grayGrad
           .bottomCircle01.mb-5
             figure
               img(src="@/assets/curso/temas/t1/img11.svg", alt="alt").img80.m-auto
           h4.text-center Aplicación de pruebas estandarizadas a los egresados
-          p Como mecanismo de verificación de competencias.
+          p.text-center Como mecanismo de verificación de competencias.
       .col-xl-4.col-lg-8.mb-4.mb-xl-5
         .crd01.crd--grayGrad
           .bottomCircle01.mb-5
             figure
               img(src="@/assets/curso/temas/t1/img12.svg", alt="alt").img80.m-auto
           h4.text-center Fortalecimiento de la investigación, la innovación y la producción intelectual
-          p Como soportes del proceso formativo y como evidencias de la calidad institucional.
+          p.text-center Como soportes del proceso formativo y como evidencias de la calidad institucional.
     .row.justify-content-center.mb-0
       .col.col-lg-10.col-12
         .cajon.cajon.c03.color-primario.p-4
