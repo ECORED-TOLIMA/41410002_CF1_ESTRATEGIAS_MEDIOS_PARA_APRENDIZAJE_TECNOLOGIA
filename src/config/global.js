@@ -225,7 +225,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/41410002_CF01_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -390,7 +390,7 @@ export default {
       autores: [
         {
           nombre: 'Solanlly Sánchez Melo',
-          cargo: 'Experta temático',
+          cargo: 'Experta temática',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
