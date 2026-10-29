@@ -10,7 +10,7 @@
       img(src='@/assets/curso/temas/t4/img01.png', alt='') 
     .cajon.c03.p-4.mb-4
       p.mb-0 Los modelos pedagógicos pueden adoptar diferentes formas según la manera en que conciben la enseñanza, el aprendizaje, el papel del instructor-tutor y la participación del aprendiz. Estas diferencias se reflejan en la forma de organizar las actividades, seleccionar los medios, orientar el aprendizaje y valorar sus resultados.
-    p.mb-0 Entre los modelos que permiten reconocer estas diferentes formas de organizar la práctica formativa se encuentran el tradicional, tecnológico, espontaneísta y alternativo. Su análisis a partir de las dimensiones planteadas anteriormente permite identificar sus principales características y comprender cómo cada uno orienta las decisiones que se toman en un ambiente de enseñanza y aprendizaje.
+    p.mb-0 Entre los modelos que permiten reconocer estas diferentes formas de organizar la práctica formativa se encuentran el modelo tradicional, el tecnológico, el espontaneísta y el alternativo. Su análisis a partir de las dimensiones planteadas anteriormente permite identificar sus principales características y comprender cómo cada uno orienta las decisiones que se toman en un ambiente de enseñanza y aprendizaje.
     separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.1 Modelo pedagógico tradicional
