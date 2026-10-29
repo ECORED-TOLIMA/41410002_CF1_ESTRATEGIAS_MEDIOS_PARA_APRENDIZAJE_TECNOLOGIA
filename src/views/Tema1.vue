@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require_src('@/assets/curso/temas/t1/img01.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0(data-aos="fade-down") En la actualidad, las tendencias e indicadores que marcan el rumbo de la educación superior en Colombia son los mismos que orientan los caminos de América Latina, Asia, África, Europa, Australia y Norteamérica. Restrepo (2006) identifica cuatro grandes situaciones que afectan la educación mundial y colombiana: la globalización, el mejoramiento de la calidad, las transformaciones pedagógicas y el emprendimiento. Estas tendencias constituyen el marco macro dentro del cual se inscribe cualquier proceso formativo y, por tanto, su conocimiento resulta indispensable para todo instructor-tutor que aspire a orientar procesos coherentes con las dinámicas contemporáneas.
+        p.mb-0(data-aos="fade-down") En la actualidad, las tendencias e indicadores que marcan el rumbo de la educación superior en Colombia son los mismos que orientan los caminos de América Latina, Asia, África, Europa, Australia y Norteamérica. Restrepo (2006) identifica cuatro grandes situaciones que afectan la educación mundial y colombiana: la globalización, el mejoramiento de la calidad, las transformaciones pedagógicas y el emprendimiento. Estas tendencias constituyen el marco general dentro del cual se inscribe cualquier proceso formativo y, por tanto, su conocimiento resulta indispensable para todo instructor-tutor que aspire a orientar procesos coherentes con las dinámicas contemporáneas.
     p.mb-0 Las cuatro tendencias actúan de manera articulada: la globalización promueve la circulación internacional del conocimiento y del talento; el mejoramiento de la calidad exige procesos sistemáticos de acreditación, evaluación e investigación; las transformaciones pedagógicas redefinen las prácticas de aula y los métodos de evaluación; y el emprendimiento orienta la formación hacia el desarrollo de actitudes y competencias empresariales.
     separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -66,7 +66,7 @@
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t1/img09.svg", alt="").img100.m-auto
                   p.text-center La necesidad de articular los estándares globales con la pertinencia local.
-    p.mb-0 Para la formación técnica y tecnológica, la globalización representa tanto una oportunidad como un desafío. La oportunidad radica en el acceso a una enorme cantidad de recursos formativos de calidad, antes inaccesibles, y en la posibilidad de que los egresados compitan en mercados laborales más amplios. El desafío consiste en mantener la pertinencia frente a las necesidades del contexto local y productivo nacional, evitando trasplantar de forma acrítica modelos diseñados para otras realidades. El instructor-tutor cumple un papel decisivo en esta mediación: selecciona, adapta y contextualiza los recursos globales para que respondan a las condiciones específicas de sus aprendices.
+    p.mb-0 Para la formación técnica y tecnológica, la globalización representa tanto una oportunidad como un desafío. La oportunidad radica en el acceso a una enorme cantidad de recursos formativos de calidad, antes inaccesibles, y en la posibilidad de que los egresados compitan en mercados laborales más amplios. El desafío consiste en mantener la pertinencia frente a las necesidades del contexto local y productivo nacional, evitando adoptar de forma acrítica modelos diseñados para otras realidades. El instructor-tutor cumple un papel decisivo en esta mediación: selecciona, adapta y contextualiza los recursos globales para que respondan a las condiciones específicas de sus aprendices.
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.2 Mejoramiento de la calidad
@@ -93,7 +93,7 @@
             figure
               img(src="@/assets/curso/temas/t1/img12.svg", alt="alt").img80.m-auto
           h4.text-center Fortalecimiento de la investigación, la innovación y la producción intelectual
-          p.text-center Como soportes del proceso formativo y como evidencias de la calidad institucional.
+          p.text-center Como soportes del proceso formativo y evidencias de la calidad institucional.
     .row.justify-content-center.mb-0
       .col.col-lg-10.col-12
         .cajon.cajon.c03.color-primario.p-4

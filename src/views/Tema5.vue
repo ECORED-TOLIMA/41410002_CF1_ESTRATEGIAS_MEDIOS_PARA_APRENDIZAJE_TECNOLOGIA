@@ -269,7 +269,7 @@
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta-c01")
           .row(titulo="Resultado de aprendizaje")
             .col-12.mb-0.mb-md-0
-              p Permite determinar qué competencia se busca desarrollar y qué tipo de desempeño debe evidenciar el aprendiz. Por ejemplo, cuando se requiere analizar una situación y tomar decisiones, puede resultar pertinente el estudio de caso; cuando se busca desarrollar un producto que integre diferentes aprendizajes, puede considerarse el aprendizaje basado en proyectos.
+              p Permite identificar el resultado de aprendizaje esperado y el desempeño que debe evidenciar el aprendiz. Por ejemplo, cuando se requiere analizar una situación y tomar decisiones, puede resultar pertinente el estudio de caso; cuando se busca desarrollar un producto que integre diferentes aprendizajes, puede considerarse el aprendizaje basado en proyectos.
           .row(titulo="Perfil del grupo")
             .col-12.mb-0.mb-md-0
               p Comprende aspectos como el nivel de autonomía, los conocimientos previos y la disposición para el trabajo colaborativo. Estos elementos permiten valorar qué tan estructurada debe ser la estrategia y qué nivel de participación puede asumir el aprendiz.
@@ -298,7 +298,7 @@
             tbody
               tr
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Resultado de aprendizaje
-                td(data-aos="fade-down")(style="background-color: #F6F6F6") ¿Qué competencia se busca desarrollar y qué desempeño debe evidenciar el aprendiz?
+                td(data-aos="fade-down")(style="background-color: #F6F6F6") ¿Qué resultado de aprendizaje se espera alcanzar y qué desempeño debe evidenciar el aprendiz?
               tr
                 td(data-aos="fade-down") Perfil del grupo
                 td(data-aos="fade-down") ¿Qué nivel de autonomía, conocimientos previos y disposición para el trabajo colaborativo tienen los aprendices?

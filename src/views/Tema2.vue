@@ -31,19 +31,20 @@
             tbody
               tr
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Contenidos y conocimientos declarativos
-                td(data-aos="fade-down")(style="background-color: #F6F6F6") Procesos y conocimiento estratégico (aprender a aprender)
+                td(data-aos="fade-down")(style="background-color: #F6F6F6") Procesos y conocimiento estratégico (aprender a aprender).
               tr
                 td(data-aos="fade-down") Método expositivo o magistral
-                td(data-aos="fade-down") Pedagogías activas: estudio de caso, ABP y aprendizaje colaborativo
+                td(data-aos="fade-down") Pedagogías activas: estudio de caso, ABP y aprendizaje colaborativo.
               tr
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Enseñanza centrada en el profesor
-                td(data-aos="fade-down")(style="background-color: #F6F6F6") Aprendizaje centrado en el estudiante
+                td(data-aos="fade-down")(style="background-color: #F6F6F6") Aprendizaje centrado en el estudiante.
               tr
                 td(data-aos="fade-down") Aprendizaje exclusivamente por recepción
-                td(data-aos="fade-down") Recepción significativa, descubrimiento y construcción
+                td(data-aos="fade-down") Recepción significativa, descubrimiento y construcción.
               tr
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Evaluación basada en pruebas objetivas
-                td(data-aos="fade-down")(style="background-color: #F6F6F6") Evaluación por competencias: portafolio y evidencias
+                td(data-aos="fade-down")(style="background-color: #F6F6F6") Evaluación por competencias: portafolio y evidencias.
+          figcaption Nota. Adaptada de Restrepo (2006).
     .row.justify-content-center.align-items-center.mb-0
       .col.col-lg-1.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure
